@@ -40,9 +40,11 @@ while True:
     s.send("Acknowledgement Recived frome the server".encode())
 ```
 ## OUTPUT
-### client:
-![alt text](image.png)
-### server:
-![alt text](image-1.png)
+### Server :
+![image](https://github.com/user-attachments/assets/bb424cb0-e7f7-422c-94c1-a0a713fa2a0e)
+
+### Client Code :
+![image](https://github.com/user-attachments/assets/49f89eb6-8dd2-4e7e-8fc9-f705a6efc64f)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
